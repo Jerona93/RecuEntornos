@@ -1,5 +1,5 @@
 package Funciones;
-
+//funcion 1
 public class Funcion1 {
 	public static Boolean funcion1(String palabra1) {
 
@@ -14,9 +14,9 @@ public class Funcion1 {
 				contador++;
 
 				if (contador >= edad) {
-					resultado = true;// System.out.println("Hay "+contador+" Vocales. Es Menor que mi Edad");
+					resultado = true;
 				} else { // SUSTITUIDO//
-					resultado = false; // System.out.println("Hay "+contador+" Vocales. Es Mayor que mi Edad");
+					resultado = false; 
 				}
 			}
 		}
