@@ -1,5 +1,5 @@
 package Funciones;
-
+//funcion 1
 public class Funcion1 {
 	public static Boolean funcion1(String palabra1) {
 
@@ -15,7 +15,7 @@ public class Funcion1 {
 
 				if (contador >= edad) {
 					resultado = true;
-				} else { // SUSTITUIDO//
+				} else { 
 					resultado = false; 
 				}
 			}
